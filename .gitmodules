@@ -1,0 +1,3 @@
+[submodule "lab7"]
+	path = lab7
+	url = https://github.com/A-Daffeh/cs489-appsd-lab7.git
